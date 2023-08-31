@@ -1,1 +1,1 @@
-Based on the user input of any mathematical expression, it will create a stack of the parentheses if it contains it. If the
+Will use the user input of any mathematical expression,to put the parentheses in an empty stack created. If the expression parentheses is balanced throughout the expression then the output will reflect that. However, if it is not, it will output that the expression is not balanced and give the position of where it is not balanced.
